@@ -10,7 +10,7 @@ Hi everybody! Welcome to my blog!  My name is Avi, and I am a Data Scientist.  H
 
 Background in applied mathematics and statistics, machine learning, and Python
 
-Data Scientist, [Uncountable](uncountable.com)  
+Data Scientist, [Uncountable](https://uncountable.com)  
 Metis Seattle, 2017  
 Washington University, MS Electrical Engineering, 2016  
 Washington University, BS Electrical Engineering, 2016  
