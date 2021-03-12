@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Avi Kejriwal
+subtitle: Data Enthusiast, Sci-Fi fanatic, Jack-of-all-trades, Dungeon Master Extraordinaire
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi everybody! Welcome to my blog!  My name is Avi, and I am a Data Scientist.  Here I will primarily document my adventures, projects, interesting findings, and an overall data-driven perspective.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### More Information
 
-What else do you need?
+Background in applied mathematics and statistics, machine learning, and Python
 
-### My story
+Data Scientist, [Uncountable](https://uncountable.com)  
+Metis Seattle, 2017  
+Washington University, BS/MS Electrical Engineering, 2016
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Contact me
+
+[avi.kejriwal@gmail.com](mailto:avi.kejriwal@gmail.com)
