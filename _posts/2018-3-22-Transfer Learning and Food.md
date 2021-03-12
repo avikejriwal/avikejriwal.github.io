@@ -20,9 +20,9 @@ I collected image data from Pixabay, Imgur and Google Images through their respe
 
 <table style="width:100%">
   <tr>
-    <td><img src="/assets/assets/img/veg_vgg/sample_vegan.png"/></td>
-    <td><img src="/assets/assets/img/veg_vgg/sample_dairy.png"/></td>
-    <td><img src="/assets/assets/img/veg_vgg/sample_chicken.png"/></td>
+    <td><img src="/assets/img/veg_vgg/sample_vegan.png"/></td>
+    <td><img src="/assets/img/veg_vgg/sample_dairy.png"/></td>
+    <td><img src="/assets/img/veg_vgg/sample_chicken.png"/></td>
   </tr>
   <tr>
     <td>vegan</td>
