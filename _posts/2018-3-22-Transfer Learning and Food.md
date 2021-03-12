@@ -20,9 +20,9 @@ I collected image data from Pixabay, Imgur and Google Images through their respe
 
 <table style="width:100%">
   <tr>
-    <td><img src="/img/veg_vgg/sample_vegan.png"/></td>
-    <td><img src="/img/veg_vgg/sample_dairy.png"/></td>
-    <td><img src="/img/veg_vgg/sample_chicken.png"/></td>
+    <td><img src="/assets/assets/img/veg_vgg/sample_vegan.png"/></td>
+    <td><img src="/assets/assets/img/veg_vgg/sample_dairy.png"/></td>
+    <td><img src="/assets/assets/img/veg_vgg/sample_chicken.png"/></td>
   </tr>
   <tr>
     <td>vegan</td>
@@ -43,7 +43,7 @@ The worst-case scenario for incorrect classifications, given the intended use of
 
 The labels consisted of vegan, dairy, and meat.  A confusion matrix of test results for this setup is shown below, normalized vertically.  
 
-<img src="/img/veg_vgg/confmat_3class.png"/>
+<img src="/assets/img/veg_vgg/confmat_3class.png"/>
 
 The model had a test accuracy of roughly 77%.  The model performance is fairly balanced across the three classes, though there is a bit more confusion between vegan and meat labels.
 
@@ -51,9 +51,9 @@ Some sample predictions are shown below.  For the most part they are pretty accu
 
 <table style="width:100%">
   <tr>
-    <td><img src="/img/veg_vgg/vegan_pred.png"/></td>
-    <td><img src="/img/veg_vgg/dairy_pred.png"/></td>
-    <td><img src="/img/veg_vgg/meat_pred.png"/></td>
+    <td><img src="/assets/img/veg_vgg/vegan_pred.png"/></td>
+    <td><img src="/assets/img/veg_vgg/dairy_pred.png"/></td>
+    <td><img src="/assets/img/veg_vgg/meat_pred.png"/></td>
   </tr>
   <tr>
     <td>vegan</td>
@@ -66,9 +66,9 @@ Some sample predictions are shown below.  For the most part they are pretty accu
 
 <table style="width:100%">
   <tr>
-    <td><img src="/img/veg_vgg/wrong_vegan_pred.png"/></td>
-    <td><img src="/img/veg_vgg/wrong_dairy_pred.png"/></td>
-    <td><img src="/img/veg_vgg/wrong_meat_pred.png"/></td>
+    <td><img src="/assets/img/veg_vgg/wrong_vegan_pred.png"/></td>
+    <td><img src="/assets/img/veg_vgg/wrong_dairy_pred.png"/></td>
+    <td><img src="/assets/img/veg_vgg/wrong_meat_pred.png"/></td>
   </tr>
   <tr>
     <td>vegan</td>
@@ -79,7 +79,7 @@ Some sample predictions are shown below.  For the most part they are pretty accu
 
 The final model structure is as follows:
 
-<img src="/img/veg_vgg/model.png"/>
+<img src="/assets/img/veg_vgg/model.png"/>
 
 ### Parting thoughts and Future directions
 

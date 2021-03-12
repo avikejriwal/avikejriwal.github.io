@@ -130,13 +130,13 @@ var pie = new d3pie("pieChart", {
 
 The above pie chart shows the overall dispute rate in the complaint dataset.  While 18% positive instances is better than a lot of datasets, it does require some balancing.  To address this, I downsampled the negative instances in the training dataset to balance the relative label occurrences.
 
-<img src="/img/disp_rate.png"/>
+<img src="/assets/img/disp_rate.png"/>
 
 The above plot shows the dispute frequency as it varies over time (smoothed with a [Savitzky-Golay filter](https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter)).  The dropoff in 2017 is due to the fact that many of the complaints are still pending.  The dispute rate is more erratic from 2012-2014, possibly due to the fact that the CFPB was a new agency at the time, and the complaint process was still in development.
 
 ### Results  
 
-<img src="/img/roc.png"/>
+<img src="/assets/img/roc.png"/>
 
 This plot shows the test ROC curve for several models trained on the most recent 2-year window in the dataset.  They all have an AUC score in the range of 0.63-0.64.  The Voting Classifier returns the mode of the labels predicted by the other three classifiers.  
 

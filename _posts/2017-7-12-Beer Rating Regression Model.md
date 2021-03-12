@@ -84,7 +84,7 @@ The following are the 5 states with the highest average ratings for beers.  The 
   </tbody>
 </table>
 
-<img src="/img/beerpredict.png"/>
+<img src="/assets/img/beerpredict.png"/>
 
 The above plot shows actual scores against model predictions for beer ratings on a testing dataset.  The dashed lines indicate the 95% interval (value += 0.5).  
 

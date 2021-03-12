@@ -22,13 +22,13 @@ In choosing stations to recommend, we evaluated the following:
 
 ### Results
 
-<img src="/img/weekdays.png"/>  
+<img src="/assets/img/weekdays.png"/>  
 
 Intuitively, public transit experiences higher volumes on weekdays than weekends, as people are commuting to/from work.  
 
 The peak windows for overall volume over the course of the day were during morning commutes (7-9AM) and evening commutes (4-6PM) (not shown).
 
-<img src="/img/tech_stops.png"/>  
+<img src="/assets/img/tech_stops.png"/>  
 
 Above shows the final recommendations for stations during morning weekday commutes.  The black marks correspond to technology companies in the area, while the red pins are the stations themselves.
 

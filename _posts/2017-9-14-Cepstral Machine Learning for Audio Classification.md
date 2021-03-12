@@ -63,9 +63,9 @@ Given the inherent ambiguity and overlap in genre, one song is likely to fall un
 
 With minor adjustments to the model, I was able to use the model to predict a probability distribution of genres for a given song, rather than the most likely genre.  The following plots show the distributions for 2 very popular songs.
 
-<img src='/img/WTTJ.png'>  
+<img src='/assets/img/WTTJ.png'>  
 
-<img src='/img/Despacito.png'>
+<img src='/assets/img/Despacito.png'>
 
 In this case, Welcome to the Jungle is primarily Rock and Pop, and Despacito can be interpreted as a combination of International and Hip-Hop music.
 

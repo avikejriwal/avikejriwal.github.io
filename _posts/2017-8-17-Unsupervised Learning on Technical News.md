@@ -98,7 +98,7 @@ then using the two terms with the highest score as a cluster label.  These label
 
 t-SNE was used to further reduce the dimensionality.  The following shows the clusters plotted in the resulting 2-dimensional space:
 
-<img src="/img/tsne.png"/>
+<img src="/assets/img/tsne.png"/>
 
 Based on the labels, clusters can be directly mapped to major technology companies (Facebook, Google, Tesla), industries (gaming, consumer electronics), or current events (Charlottesville white supremacy rally, HBO Game of Thrones leaks).  
 
